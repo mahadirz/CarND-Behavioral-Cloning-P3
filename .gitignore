@@ -1,0 +1,10 @@
+training
+training.zip
+.ipynb_checkpoints
+*.swp
+*.p
+.idea
+.DS_Store
+drive_test.py
+test.py
+__pycache__
